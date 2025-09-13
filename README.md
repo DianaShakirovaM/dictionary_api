@@ -54,7 +54,7 @@ POST /api/translate
 {
     "text": "Hello world",
     "langpair": "en|ru"
-  }'
+}
 ```
 3. Get Dictionary with Pagination
 ```http
