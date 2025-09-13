@@ -70,8 +70,6 @@ GET /api/dictionary?page=1&per_page=10&q=hello
     "per_page": 10,
     "next_num": null,
     "prev_num": null,
-    "total": 1,
-    "pages": 1
   },
   "dictionary": [
     {
