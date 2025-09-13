@@ -78,9 +78,6 @@ GET /api/dictionary?page=1&per_page=10&q=hello
       "id": 1,
       "text": "Hello world",
       "translation": "Привет мир",
-      "langpair": "en|ru",
-      "created_at": "2024-01-15T10:30:00Z",
-      "updated_at": "2024-01-15T10:30:00Z"
     }
   ]
 }
